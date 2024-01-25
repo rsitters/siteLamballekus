@@ -11279,10 +11279,10 @@ header.masthead {
   padding-bottom: calc(10rem - 4.5rem);
   background: linear-gradient(
       to bottom,
-      rgba(0, 0, 0, 0.8) 0%,
-      rgba(0, 0, 0, 0.8) 100%
+      rgba(0, 0, 0, 0.6) 0%,
+      rgba(0, 0, 0, 0.6) 100%
     ),
-    url("../assets/img/background.png");
+    url("../assets/img/portfolio/fullsize/wagen2018.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
