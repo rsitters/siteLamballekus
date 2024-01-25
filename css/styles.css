@@ -2974,19 +2974,19 @@ fieldset:disabled .btn {
 
 .btn-primary {
   --bs-btn-color: #000;
-  --bs-btn-bg: #efe400;
-  --bs-btn-border-color: #efe400;
+  --bs-btn-bg: #F5B219;
+  --bs-btn-border-color: #F5B219;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #efe300ab;
+  --bs-btn-hover-bg: #f5b319c9;
   --bs-btn-hover-border-color: #efe300ab;
   --bs-btn-focus-shadow-rgb: 246, 122, 88;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #efe400;
-  --bs-btn-active-border-color: #efe400;
+  --bs-btn-active-bg: #F5B219;
+  --bs-btn-active-border-color: #F5B219;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #efe400;
-  --bs-btn-disabled-border-color: #efe400;
+  --bs-btn-disabled-bg: #F5B219;
+  --bs-btn-disabled-border-color: #F5B219;
 }
 
 .btn-secondary {
@@ -8493,7 +8493,7 @@ fieldset:disabled .btn {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(239, 228, 0, var(--bs-bg-opacity)) !important;
+  background-color: rgba(245, 178, 25, var(--bs-bg-opacity)) !important;
 }
 
 .bg-dark {
@@ -11195,7 +11195,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #efe400;
+  background-color: #F5B219;
   opacity: 1;
 }
 
@@ -11209,7 +11209,7 @@ hr.divider-custom {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #efe400;
+  background-color: #F5B219;
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -11258,19 +11258,19 @@ hr.divider-custom {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #efe400;
+    background-color: #F5B219;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #ff5500;
+    color: #fff;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #ff5500;
+    color: #fff;
   }
 }
 
@@ -11348,7 +11348,7 @@ header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #000;
-  background: rgba(239, 228, 0, 0.9);
+  background: rgba(245, 178, 25, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
