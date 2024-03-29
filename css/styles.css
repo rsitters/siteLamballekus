@@ -509,6 +509,9 @@ output {
 
 iframe {
   border: 0;
+  aspect-ratio: 16 / 9;
+  height: 100%;
+  width: 100%;
 }
 
 summary {
