@@ -11203,6 +11203,10 @@ hr.divider {
   color: #f5b219;
 }
 
+.yellow{
+    background-color: #f5b219;
+}
+
 hr.divider-light {
   background-color: #fff;
 }
